@@ -12,7 +12,7 @@ from six import next
 import pytest
 
 import islex.tokens
-from islex.data.core import entries_stream
+from islex.data.entities import entries_stream
 
 class TestIsleCore(object):
 
