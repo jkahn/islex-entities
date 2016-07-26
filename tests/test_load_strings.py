@@ -5,7 +5,7 @@
 test_load_strings
 ----------------------------------
 
-Tests for `islex.data.core` module.
+Tests for `islex.data.entities` module, exported from islex-entities.
 """
 
 from six import next
