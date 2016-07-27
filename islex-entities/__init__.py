@@ -5,7 +5,7 @@ from pkg_resources import resource_stream
 
 __author__ = 'Jeremy G. Kahn'
 __email__ = 'jeremy@trochee.net'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 def entries_stream():
     """Get an iterator over the entries. Useful for building a dictionary.
