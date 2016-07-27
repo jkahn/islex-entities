@@ -8,14 +8,14 @@ Installation
 Stable release
 --------------
 
-To install ISLEX pronunciation dictionary core entries, run this
+To install ISLEX pronunciation dictionary named-entities entries, run this
 command in your terminal:
 
 .. code-block:: console
 
     $ pip install islex-entities
 
-This is the preferred method to install the core data entries, as it
+This is the preferred method to install the named-entity entries, as it
 will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
@@ -28,7 +28,7 @@ you through the process.
 From sources
 ------------
 
-The sources for ISLEX pronunciation dictionary core entries can be
+The sources for ISLEX pronunciation dictionary named-entity entries can be
 downloaded from the `Github repo`_.
 
 You can either clone the public repository:

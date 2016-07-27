@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ISLEX core entries documentation!
-============================================
+Welcome to ISLEX named-entities entries documentation!
+======================================================
 
 Contents:
 

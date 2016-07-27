@@ -65,7 +65,7 @@ test-all: develop ## run tests on every Python version with tox
 	tox
 
 coverage: develop ## check code coverage quickly with the default Python
-	py.test --cov=islex.data.core tests --cov-report=term --cov-report=html
+	py.test --cov=islex.data.entities tests --cov-report=term --cov-report=html
 
 coverage-html: coverage ## report coverage in web browser window.
 	$(BROWSER) htmlcov/index.html

@@ -9,7 +9,7 @@ ISLE pronunciation dictionary named-entity entries
 .. image:: https://img.shields.io/travis/jkahn/islex-entities.svg
         :target: https://travis-ci.org/jkahn/islex-entities
 
-.. image:: https://readthedocs.org/projects/isle-core/badge/?version=latest
+.. image:: https://readthedocs.org/projects/isle-entities/badge/?version=latest
         :target: https://islex-entities.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
@@ -18,8 +18,8 @@ ISLE pronunciation dictionary named-entity entries
      :alt: Updates
 
 
-Data package containing core entries of the ISLE dictionary (those
-with part-of-speech-tags, excluding named-entities).
+Data package containing named-entities of the ISLE dictionary (those
+labeled as exclusively named-entity (`NNP` or `NNPS`).
 
 
 * Free software: MIT license
